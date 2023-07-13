@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/drawable/bg_cardview.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/drawable/btn_background.xml" value="0.328" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/layout/activity_screen1.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/layout/activity_screen2.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/layout/activity_screen3.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/layout/item_user.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/layout/item_username.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Magang/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
